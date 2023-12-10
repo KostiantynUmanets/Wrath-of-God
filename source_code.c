@@ -74,10 +74,9 @@ void show_rules() {
     while (time != 3) {
         sleep(1);
         time--;
-        mvprintw(17, 10, "Game starts in %d", time);
+        mvprintw(17, 10, "Game starts in %d ", time);
         refresh();
     }
-    
     clear();
     game_start();
     clear();
