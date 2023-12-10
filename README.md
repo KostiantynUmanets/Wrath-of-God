@@ -5,4 +5,4 @@
 ### ! WORKING ON LINUX !
 ### Gameplay:
 
-![work]([https://im2.ezgif.com/tmp/ezgif-2-2972406ed3.gif](https://im3.ezgif.com/tmp/ezgif-3-87cc0b0f95.gif)https://im3.ezgif.com/tmp/ezgif-3-87cc0b0f95.gif)
+![work](https://im2.ezgif.com/tmp/ezgif-2-2972406ed3.gif](https://im3.ezgif.com/tmp/ezgif-3-87cc0b0f95.gif)https://im3.ezgif.com/tmp/ezgif-3-87cc0b0f95.gif)
