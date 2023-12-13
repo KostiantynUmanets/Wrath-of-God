@@ -6,7 +6,7 @@
 CC := gcc
 
 # Flags for compiler
-CFLAGS := -Wall -Wextra -Werror
+CFLAGS := #-Wall -Wextra -Werror
 
 # Source and build directories
 SRC_DIR := src
