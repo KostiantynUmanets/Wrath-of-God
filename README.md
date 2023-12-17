@@ -5,7 +5,7 @@
 ### ! WORKING ON LINUX !
 ### Gameplay:
 
-![work](https://im3.ezgif.com/tmp/ezgif-3-87cc0b0f95.gif)
+![gameplay](https://i.imgur.com/yg2WTOE.gif)
 
 
 ## Requriments
